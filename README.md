@@ -8,6 +8,8 @@ Features
 - JSP-based Web Interface
 - Maven Build Support
 
+### Check demo here: gowri-malla216.github.io/mock-captcha/
+
 ## Prerequisites
 
 - Java JDK 11 or higher

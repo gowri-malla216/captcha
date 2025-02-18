@@ -8,7 +8,7 @@ Features
 - JSP-based Web Interface
 - Maven Build Support
 
-### Check demo here: gowri-malla216.github.io/mock-captcha/
+### Check demo here: [demo link](https://gowri-malla216.github.io/mock-captcha/)
 
 ## Prerequisites
 

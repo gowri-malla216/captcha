@@ -8,24 +8,6 @@ Features
 - JSP-based Web Interface
 - Maven Build Support
 
-## Project Structure
-Copyweb/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   ├── com/captcha/servlets/
-│   │   │   │   ├── Login.java
-│   │   │   │   ├── Register.java
-│   │   ├── webapp/
-│   │   │   ├── index.jsp
-│   │   │   ├── login.jsp
-│   │   │   ├── WEB-INF/
-│   │   │   │   ├── web.xml
-│   │   │   │   ├── classes/
-│   │   │   │   ├── lib/
-├── pom.xml
-├── Dockerfile
-
 ## Prerequisites
 
 - Java JDK 11 or higher
